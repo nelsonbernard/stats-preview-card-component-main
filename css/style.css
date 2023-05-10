@@ -76,7 +76,7 @@ p{
 }
 
 .container-right {
-    background-image: url('./images/image-header-desktop.jpg');
+    background-image: url('../images/image-header-desktop.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-color: var(--soft-violet);
@@ -133,7 +133,7 @@ p{
 
     .container-right {
         order: -1;
-        background-image: url('./images/image-header-mobile.jpg');
+        background-image: url('../images/image-header-mobile.jpg');
         background-repeat: no-repeat;
         background-size: cover;
         width: 20.4375rem;
